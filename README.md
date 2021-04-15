@@ -1,6 +1,7 @@
 # Issues del libro "100 preguntas sobre JavaScript"
 
 📖 Ayúdame a detectar los errores ortográficos, técnicos o de maquetación del libro "100 preguntas sobre JavaScript".
+Comprar libro: https://leanpub.com/100-preguntas-javascript
 
 <a href='https://leanpub.com/100-preguntas-javascript'><img src='https://d2sofvawe08yqg.cloudfront.net/100-preguntas-javascript/hero2x?1616891091' width='250' /></a>
 
